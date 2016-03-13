@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">wifi-robots</string>
+    <string name="hello">hanry</string>
+    <string name="title_activity_wifi_car_settings">小车设置</string>
+</resources>
